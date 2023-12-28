@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import ExmapleClinet from '@/components/ExmapleClinet'
+
 
 
 export default function Home() {
@@ -9,7 +9,8 @@ export default function Home() {
      
 
    <h1>hello</h1>
-   <ExmapleClinet />
+   <p>I am ParaGraph</p>
+  
  
      
 
